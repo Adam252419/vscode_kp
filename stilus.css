@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+}
+body{
+    color: slategrey ;
+}
+body{
+    font-size: 12pt;
+}
+h2 {
+    font-size: 18pt;
+}
+#scottish{
+    background-color:burlywood;
+    color:gray;
+ }
+#savannah{
+    background-color: darksalmon;
+    color:gray;
+}
+ #bengali{
+    background-color: lemonchiffon;
+    color:gray;
+ }
